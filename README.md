@@ -1,2 +1,3 @@
-# DynamicProgramming
-As part of improving my competitive programming skills, I'm taking an oath to do all 106 basic problems on GeeksForGeeks for Dynamic Programming. Here goes.
+#Hey!
+These are a bunch of practice problems that I am uploading on Github for various purposes.
+
